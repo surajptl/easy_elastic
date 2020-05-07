@@ -4,7 +4,7 @@ setup(
     name='easy_elastic',
     version='0.1.0',
     description='A Python package for elasticsearch',
-    url='https://github.com/surajptl/simple_elastic',
+    url='https://github.com/surajptl/easy_elastic',
     author='Suraj Patel',
     author_email='suraj326len@gmail.com',
     license='BSD 2-clause',
